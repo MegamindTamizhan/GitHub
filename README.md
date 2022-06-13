@@ -1,3 +1,5 @@
+# Log in to GitHub from Terminal
+
 root@webserver:/home/jack/webserver/Git# git remote add origin https://github.com/githubid/repo.git
 root@webserver:/home/jack/webserver/Git# git push origin master
 Username for 'https://github.com': username
